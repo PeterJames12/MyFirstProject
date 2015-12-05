@@ -1,4 +1,4 @@
-public class Main {
+public class I_want {
 
 	public static void main (String args ...){
 
